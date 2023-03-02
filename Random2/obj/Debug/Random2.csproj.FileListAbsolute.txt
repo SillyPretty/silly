@@ -1,0 +1,16 @@
+D:\wpf\Random2\bin\Debug\Random2.exe.config
+D:\wpf\Random2\bin\Debug\Random2.exe
+D:\wpf\Random2\bin\Debug\Random2.pdb
+D:\wpf\Random2\obj\Debug\Random2.csproj.AssemblyReference.cache
+D:\wpf\Random2\obj\Debug\Random2.csproj.SuggestedBindingRedirects.cache
+D:\wpf\Random2\obj\Debug\MainWindow.g.cs
+D:\wpf\Random2\obj\Debug\App.g.cs
+D:\wpf\Random2\obj\Debug\Random2_MarkupCompile.cache
+D:\wpf\Random2\obj\Debug\Random2_MarkupCompile.lref
+D:\wpf\Random2\obj\Debug\MainWindow.baml
+D:\wpf\Random2\obj\Debug\Random2.g.resources
+D:\wpf\Random2\obj\Debug\Random2.Properties.Resources.resources
+D:\wpf\Random2\obj\Debug\Random2.csproj.GenerateResource.cache
+D:\wpf\Random2\obj\Debug\Random2.csproj.CoreCompileInputs.cache
+D:\wpf\Random2\obj\Debug\Random2.exe
+D:\wpf\Random2\obj\Debug\Random2.pdb
